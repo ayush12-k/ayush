@@ -158,16 +158,16 @@ body {
   bottom: 20px;
   right: 25px;
   color: #fff;
-  opacity: 0.4;
+  opacity: 0.9;
 }
 .social a {
   display: inline-block;
   margin-left: 3px;
 }
 .social svg {
-  --fill: #fff;
-  width: 35px;
-  height: 35px;
+  --fill: #ff0000;
+  width: 55px;
+  height: 55px;
 }
 
 .cursor {
